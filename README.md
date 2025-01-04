@@ -33,7 +33,7 @@ I'm currently diving deep into:
 ## 💻 My Tech Stack  
 - **Blockchain**: Solidity, EVM-based protocols, DeFi smart contracts.  
 - **Backend**: TypeScript, Node.js.  
-- **Languages**: Rust (beginner), JavaScript, Python.  
+- **Languages**: JavaScript, Python, Rust (beginner), Solidity
 
 ---
 
