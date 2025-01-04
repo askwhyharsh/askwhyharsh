@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Blockchain Developer** passionate about building secure, scalable, and impactful decentralized applications. With hands-on experience in Solidity, TypeScript, and Rust, I strive to push the boundaries of what's possible in Web3 and distributed systems.  
+I'm a **Blockchain Developer** passionate about building secure, scalable, and impactful decentralized applications. With hands-on experience in Solidity, TypeScript, and Rust, I wish to push the boundaries of what's possible in Web3 and distributed systems.  
 
 ---
 
