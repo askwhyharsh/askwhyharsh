@@ -1,15 +1,15 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Blockchain Developer** passionate about building secure, scalable, and impactful decentralized applications. With hands-on experience in Solidity, TypeScript, and Rust, I wish to push the boundaries of what's possible in Web3 and distributed systems.  
+I'm a **Blockchain Developer** passionate about building decentralized applications, currently doing and learning -  ZK, Rust, Go
 
 ---
 
 ## 🚀 What I've Worked On  
 
 ### Professional Experience  
-- **[Qiro.fi](https://qiro.fi)** – Smart contract development and DeFi protocol enhancements.  
+- **[Qiro.fi](https://qiro.fi)** – Smart contract development and worked on the underwriting protocol Launch, that allowed decentralised underwriting onchain. 
 - **[Alive.house](https://alive.house)** – Contributed to blockchain and backend infrastructure for a music NFT platform.  
-- **[Zefi.io](https://zefi.io)** – Worked on cutting-edge blockchain-based financial tools.  
+- **[Zefi.io](https://zefi.io)** – Worked on blockchain-based financial tools.  
 
 ### Personal Projects  
 - **[LinkCollect.io](https://linkcollect.io)**  
@@ -19,7 +19,7 @@ I'm a **Blockchain Developer** passionate about building secure, scalable, and i
 - **[My Rust Projects](https://github.com/askwhyharsh/my-rust-projects)**  
   Exploring Rust through practical projects.  
   - **Encrypted Credit Score Testing (FHE)**: Experimenting with Fully Homomorphic Encryption (FHE).  
-  - **Port Sniffer**: A lightweight tool for scanning open ports.  
+  - **[Function Layer AVS](https://github.com/askwhyharsh/function_layer_AVS)**: A Offchain but decentralised actively validated service on EigenLayer that helps with decntralised computation of functions in any language (js/go/py) in decentralised manner, and to be able to call these function from within solidity contracts and use the outputs. 
 
 ---
 
@@ -31,8 +31,8 @@ I'm currently diving deep into:
 ---
 
 ## 💻 My Tech Stack  
-- **Blockchain**: Solidity, EVM-based protocols, DeFi smart contracts.  
-- **Backend**: TypeScript, Node.js.  
+- **Blockchain**: Solidity, EVM-based, DeFi, (learning ZK and writing circuits).  
+- **Backend**: TypeScript, Node.js, Golang
 - **Languages**: JavaScript, Python, Rust (beginner), Solidity
 
 ---
