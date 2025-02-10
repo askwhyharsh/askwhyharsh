@@ -7,8 +7,8 @@ I'm a **Blockchain Developer** passionate about building decentralized applicati
 ## 🚀 What I've Worked On  
 
 ### Professional Experience  
-- **[Qiro.fi](https://qiro.fi)** – Smart contract development and worked on the underwriting protocol Launch, that allowed decentralised underwriting onchain. 
-- **[Alive.house](https://alive.house)** – Contributed to blockchain and backend infrastructure for a music NFT platform.  
+- **[Qiro.fi](https://qiro.fi)** – Wrote Protocol Smart contracts and also worked on the underwriting protocol, that allowed decentralised underwriting onchain using ritual.net . 
+- **[Alive.house](https://alive.house)** – Contributed to blockchain and backend infrastructure for a music NFT platform, all the auction types and mints onchain.  
 - **[Zefi.io](https://zefi.io)** – Worked on blockchain-based financial tools.  
 
 ### Personal Projects  
