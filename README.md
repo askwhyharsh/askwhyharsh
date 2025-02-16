@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Blockchain Developer** passionate about building decentralized applications, currently doing and learning -  ZK, Rust, Go
+I'm a **Blockchain Engineer** passionate about building decentralized applications and distributed systems, currently doing and learning -  ZK, Rust, Go
 
 ---
 
@@ -17,7 +17,6 @@ I'm a **Blockchain Developer** passionate about building decentralized applicati
   - Built to simplify content curation and sharing.  
 
 - **[My Rust Projects](https://github.com/askwhyharsh/my-rust-projects)**  
-  Exploring Rust through practical projects.  
   - **Encrypted Credit Score Testing (FHE)**: Experimenting with Fully Homomorphic Encryption (FHE).  
   - **[Function Layer AVS](https://github.com/askwhyharsh/function_layer_AVS)**: A Offchain but decentralised actively validated service on EigenLayer that helps with decntralised computation of functions in any language (js/go/py) in decentralised manner, and to be able to call these function from within solidity contracts and use the outputs. 
 
@@ -25,8 +24,8 @@ I'm a **Blockchain Developer** passionate about building decentralized applicati
 
 ## 🌱 What I'm Learning  
 I'm currently diving deep into:  
-- **Rust Programming**: Building secure and performant applications.  
-- **Distributed Systems**: Researching innovative approaches to decentralized computing.  
+- **Rust and Protocol Engineering**: Building secure and performant applications. actively contributing to coin.fi 
+- **Building Distributed Systems**:   
 
 ---
 
