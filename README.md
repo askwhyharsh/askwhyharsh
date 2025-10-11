@@ -7,7 +7,7 @@ I'm a **Blockchain Engineer** passionate about building decentralized applicatio
 ## 🚀 What I've Worked On  
 
 ### Professional Experience  
-- **[CaddyFinance.fi](https://caddy.finance)** - Architected and developed core smart contract infrastructure for Caddy’s protocol contracts, also contributed to backend services written is NestJS
+- **[Caddy.Finance](https://caddy.finance)** - Architected and developed core smart contract infrastructure for Caddy’s protocol contracts, also contributed to backend services written is NestJS
 - **[Qiro.fi](https://qiro.fi)** – Wrote Protocol Smart contracts and also worked on the underwriting protocol, that allowed decentralised underwriting onchain using ritual.net . 
 - **[Alive.house](https://alive.house)** – Contributed to blockchain and backend infrastructure for a gamified music NFT platform, all the auction types and mints onchain.  
 - **[Zefi.io](https://zefi.io)** – Worked on blockchain-based financial tools.  
