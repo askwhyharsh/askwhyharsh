@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Blockchain Engineer** passionate about building decentralized applications and distributed systems, currently doing and learning -  ZK, Rust, Go
+I'm a **Software Engineer** passionate about building decentralized applications and distributed systems, currently doing and learning -  ZK, Rust, Go
 
 ---
 
