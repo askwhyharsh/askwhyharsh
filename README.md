@@ -15,8 +15,7 @@ I'm a **Software Engineer** passionate about building decentralized applications
 - **[LinkCollect.io](https://linkcollect.io)**  
   A social bookmarking tool that once had **3,000+ users**, with **400+ active users** currently.  
   - Built to simplify content curation and sharing.  
-
-- **[My Projects](https://github.com/askwhyharsh/my-rust-projects)**  
+  - **[Near Talk - chat with people around you (build from scratch on top of TCP in Go)](https://github.com/askwhyharsh/neartalk)**: Anon talks with people around you, adding more features soon
   - **[Function Layer AVS](https://github.com/askwhyharsh/function_layer_AVS)**: A Offchain but decentralised actively validated service on EigenLayer that helps with decntralised computation of functions in any language (js/go/py) in decentralised manner, and to be able to call these function from within solidity contracts and use the outputs. 
   - **[Blockchain-in-Golang](https://github.com/askwhyharsh/blockchain-with-libp2p)**: built a basic blockchain with PoW consensus in golang, using libp2p lib for peer connection, streams blockchain with connected peers every n seconds. A Simple version build for fun
   - **Encrypted Credit Score Testing (FHE)**: Experimenting with Fully Homomorphic Encryption (FHE).
