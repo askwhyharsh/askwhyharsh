@@ -12,8 +12,7 @@ I'm a **Software Engineer** passionate about building decentralized applications
 - **[Alive.house](https://www.linkedin.com/company/alivemusic/)** – Contributed to blockchain and backend infrastructure for a gamified music NFT platform, all the auction types and mints onchain.   
 
 ### Personal Projects  
-- **[LinkCollect.io](https://linkcollect.io)**  
-  A social bookmarking tool that once had **3,000+ users**, with **400+ active users** currently.  
+  - **[LinkCollect.io](https://linkcollect.io)** A social bookmarking tool.  
   - Built to simplify content curation and sharing.  
   - **[Near Talk - chat with people around you](https://github.com/askwhyharsh/neartalk)**: Anon talks with people around you, adding more features soon
   - **[Function Layer AVS](https://github.com/askwhyharsh/function_layer_AVS)**: A Offchain but decentralised actively validated service on EigenLayer that helps with decntralised computation of functions in any language (js/go/py) in decentralised manner, and to be able to call these function from within solidity contracts and use the outputs. 
