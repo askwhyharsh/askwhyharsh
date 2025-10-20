@@ -1,12 +1,10 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Software Engineer** passionate about building decentralized applications and distributed systems, currently doing and learning -  ZK, Rust, Go
-
----
+I'm a **Software Engineer** passionate about building decentralized applications and distributed systems, i like coding in GO, but also have worked with Js/Ts/Solidity/C. currently learning ZK
 
 ## 🚀 What I've Worked On  
 
-### Professional Experience  
+### Professional Experience (4y)
 - **[Caddy.Finance](https://caddy.finance)** - Architected and developed core smart contract infrastructure for Caddy’s protocol contracts, also contributed to backend services written is NestJS
 - **[Qiro.fi](https://qiro.fi)** – Wrote Protocol Smart contracts and also worked on the underwriting protocol, that allowed decentralised underwriting onchain using ritual.net . 
 - **[Alive.house](https://www.linkedin.com/company/alivemusic/)** – Contributed to blockchain and backend infrastructure for a gamified music NFT platform, all the auction types and mints onchain.   
