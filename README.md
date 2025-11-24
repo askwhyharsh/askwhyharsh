@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Software Engineer** passionate about building decentralized applications and distributed systems, i like coding in GO, but also have worked with Js/Ts/Solidity/C. currently learning ZK
+I'm a **Software Engineer**  I like building decentralized applications and working on distributed systems, I like coding in GO, but also have worked with Js/Ts/Solidity
 
 ## 🚀 What I've Worked On  
 
