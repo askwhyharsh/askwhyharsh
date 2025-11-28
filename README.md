@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-I'm a **Software Engineer**  I like building things and working on distributed systems, I like coding in GO, but also have worked with Js/Ts/Solidity
+Software engineer, with experience working in blockchain and distributed systems but not limited by it. I like working with golang and rust, although I'm still learning rust. Apart from that i also like reading research and tech blogs and building fun learning projects in my free time.
 
 ## 🚀 What I've Worked On  
 
