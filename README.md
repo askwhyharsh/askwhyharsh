@@ -4,7 +4,12 @@ Software engineer, with experience working in blockchain and distributed systems
 
 ## 🚀 What I've Worked On  
 
+
+### Contributions 
+- **[AlfaClub](https://github.com/FriendDotSpace/contracts) ([@FriendDotSpace](https://github.com/FriendDotSpace))** *(Contract)* – Contributed to AlfaClub's ERC-1155 based social token platform with bonding-curve pricing, on-chain staking, and cross-chain liquidity. Designed and implemented upgradeable contracts (UUPS) for core components — FriendKey, FriendStake, and FriendPool. Contracts backing **$30k+ TVL** at launch, independently security reviewed — [AstraSec audit report](https://github.com/FriendDotSpace/contracts/tree/main/audits).
+
 ### Professional Experience (4y)
+
 - **[Caddy.Finance](https://caddy.finance)** - Architected core protocol smart contracts from the ground up, owning the full on-chain design and deployment lifecycle. Designed upgradeable contract architecture with a focus on security, gas efficiency, and protocol extensibility
 - **[Qiro.fi](https://qiro.fi)** – Designed and deployed Qiro Underwriting Protocol V1 — a decentralized lending protocol with on-chain credit assessment and risk-tiered lending pools. Integrated Risc Zero's zkVM (Boundless) for privacy-preserving, verifiable credit scoring. Wrote comprehensive invariant test suites and fuzz tests using Foundry, and performed gas profiling and optimization across lending, repayment, and liquidation flows. 
 - **[Alive.house](https://www.linkedin.com/company/alivemusic/)** – Architected smart contract infrastructure for the Alive.house NFT marketplace using UUPS and Beacon proxy patterns for upgradeability. Designed and implemented on-chain royalty distribution mechanics ensuring accurate and trustless splits across primary sales and secondary market trades.   
