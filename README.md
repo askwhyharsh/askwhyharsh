@@ -5,9 +5,9 @@ Software engineer, with experience working in blockchain and distributed systems
 ## 🚀 What I've Worked On  
 
 ### Professional Experience (4y)
-- **[Caddy.Finance](https://caddy.finance)** - Architected and developed core smart contract infrastructure for Caddy’s protocol contracts, also contributed to backend services written is NestJS
-- **[Qiro.fi](https://qiro.fi)** – Wrote Protocol Smart contracts and also worked on the underwriting protocol, that allowed decentralised underwriting onchain using ritual.net . 
-- **[Alive.house](https://www.linkedin.com/company/alivemusic/)** – Contributed to blockchain and backend infrastructure for a gamified music NFT platform, all the auction types and mints onchain.   
+- **[Caddy.Finance](https://caddy.finance)** - Architected core protocol smart contracts from the ground up, owning the full on-chain design and deployment lifecycle. Designed upgradeable contract architecture with a focus on security, gas efficiency, and protocol extensibility
+- **[Qiro.fi](https://qiro.fi)** – Designed and deployed Qiro Underwriting Protocol V1 — a decentralized lending protocol with on-chain credit assessment and risk-tiered lending pools. Integrated Risc Zero's zkVM (Boundless) for privacy-preserving, verifiable credit scoring. Wrote comprehensive invariant test suites and fuzz tests using Foundry, and performed gas profiling and optimization across lending, repayment, and liquidation flows. 
+- **[Alive.house](https://www.linkedin.com/company/alivemusic/)** – Architected smart contract infrastructure for the Alive.house NFT marketplace using UUPS and Beacon proxy patterns for upgradeability. Designed and implemented on-chain royalty distribution mechanics ensuring accurate and trustless splits across primary sales and secondary market trades.   
 
 ### Personal Projects  
   - **[LinkCollect.io](https://linkcollect.io)** A social bookmarking tool. I Built to simplify content curation and sharing
