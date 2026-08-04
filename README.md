@@ -1,9 +1,7 @@
 # Hi, I'm Harsh! 👋  
 
-Software engineer, with experience working in blockchain and distributed systems but not limited by it. I like working with solidity and golang. Apart from that i also like reading research and tech blogs and building fun learning projects in my free time.
-
+Software engineer, with experience working in distributed systems and MERN but not limited by it.
 ## 🚀 What I've Worked On  
-
 
 ### Contributions 
 - **[AlfaClub](https://github.com/FriendDotSpace/contracts) ([@FriendDotSpace](https://github.com/FriendDotSpace))** *(Contract)* – Contributed to AlfaClub's ERC-1155 based social token platform with bonding-curve pricing, on-chain staking, and cross-chain liquidity. Designed and implemented upgradeable contracts (UUPS) for core components — FriendKey, FriendStake, and FriendPool. Contracts backing **$30k+ TVL** at launch, independently security reviewed — [AstraSec audit report](https://github.com/FriendDotSpace/contracts/tree/main/audits).
