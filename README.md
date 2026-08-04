@@ -31,8 +31,8 @@ I'm currently diving deep into:
 ---
 
 ## 💻 My Tech Stack  
-- **Blockchain**: Solidity, EVM-based, DeFi, (learning ZK and writing circuits).  
-- **Backend**: TypeScript, Golang
+- MERN, Golang, Solidity, EVM-based, DeFi, (learning ZK and writing circuits).  
+- **Backend**: TypeScript - (NodeJs/Go)
 
 ---
 
