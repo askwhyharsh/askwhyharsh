@@ -1,6 +1,6 @@
 # Hi, I'm Harsh! 👋  
 
-Software engineer, with experience working in distributed systems and MERN but not limited by it.
+Software engineer (Smart Contract Engineer), with experience working in distributed systems / backend / Go / TS / Solidity
 ## 🚀 What I've Worked On  
 
 ### Contributions 
